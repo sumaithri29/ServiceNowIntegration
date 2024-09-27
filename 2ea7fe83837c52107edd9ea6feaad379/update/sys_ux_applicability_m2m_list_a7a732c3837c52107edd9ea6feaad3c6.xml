@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Giddaluru Sumaithri Audience">efa732c3837c52107edd9ea6feaad3bc</applicability>
+        <list display_value="Open">a7a732c3837c52107edd9ea6feaad3c0</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 04:30:13</sys_created_on>
+        <sys_id>a7a732c3837c52107edd9ea6feaad3c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Giddaluru Sumaithri" source="x_1507615_giddal_0">2ea7fe83837c52107edd9ea6feaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Giddaluru Sumaithri">2ea7fe83837c52107edd9ea6feaad379</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_a7a732c3837c52107edd9ea6feaad3c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 04:30:13</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

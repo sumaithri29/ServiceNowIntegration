@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">dcc776c3837c52107edd9ea6feaad37c</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1507615_giddal_0_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props>
+        <h>20</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 04:30:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>90c776c3837c52107edd9ea6feaad386</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Giddaluru Sumaithri" source="x_1507615_giddal_0">2ea7fe83837c52107edd9ea6feaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Giddaluru Sumaithri">2ea7fe83837c52107edd9ea6feaad379</sys_scope>
+        <sys_update_name>par_dashboard_widget_90c776c3837c52107edd9ea6feaad386</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 04:30:32</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>15</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Giddaluru Sumaithri">2ea7fe83837c52107edd9ea6feaad379</application>
+        <file_path/>
+        <instance_id>6cf2a3d71b8ef91439a54089bd4bcb60</instance_id>
+        <instance_name>dev196831</instance_name>
+        <name>par_dashboard_widget_90c776c3837c52107edd9ea6feaad386</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">dcc776c3837c52107edd9ea6feaad37c</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_1507615_giddal_0_request","fixedQuery":"active=true","listTitle":"All Active Tasks","columns":"","query":"active=true","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":""}</component_props><h>20</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-27 04:30:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>90c776c3837c52107edd9ea6feaad386</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Giddaluru Sumaithri" source="x_1507615_giddal_0">2ea7fe83837c52107edd9ea6feaad379</sys_package><sys_policy/><sys_scope display_value="Giddaluru Sumaithri">2ea7fe83837c52107edd9ea6feaad379</sys_scope><sys_update_name>par_dashboard_widget_90c776c3837c52107edd9ea6feaad386</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-27 04:30:32</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>15</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1208949543</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e6a7fe83837c52107edd9ea6feaad37e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 04:30:32</sys_created_on>
+        <sys_id>1cc776c3837c52107edd9ea6feaad387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19231beac0d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 04:30:32</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>10c776c3a17c5210b75cd605cbbecb87</update_guid>
+        <update_guid_history>10c776c3a17c5210b75cd605cbbecb87:1208949543</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6cc776c3837c52107edd9ea6feaad39a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 04:30:32</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>4f943c9a06c54909959dc222334c2461</sys_id>
+        <sys_metadata>90c776c3837c52107edd9ea6feaad386</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Giddaluru Sumaithri" source="x_1507615_giddal_0">2ea7fe83837c52107edd9ea6feaad379</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Giddaluru Sumaithri">2ea7fe83837c52107edd9ea6feaad379</sys_scope>
+        <sys_scope_delete display_value="">daf3af45523f45cc9182808915d3c9c4</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_90c776c3837c52107edd9ea6feaad386</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_90c776c3837c52107edd9ea6feaad386">1cc776c3837c52107edd9ea6feaad387</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 04:30:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

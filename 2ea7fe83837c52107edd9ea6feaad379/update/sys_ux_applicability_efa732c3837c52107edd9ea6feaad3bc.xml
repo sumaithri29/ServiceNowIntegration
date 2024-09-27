@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1507615_giddal_0.Giddaluru Sumaithri Audience</api_name>
+        <description/>
+        <name>Giddaluru Sumaithri Audience</name>
+        <role_names/>
+        <roles name="x_1507615_giddal_0.agent">d7a732c3837c52107edd9ea6feaad360</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 04:30:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>efa732c3837c52107edd9ea6feaad3bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Giddaluru Sumaithri Audience</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Giddaluru Sumaithri" source="x_1507615_giddal_0">2ea7fe83837c52107edd9ea6feaad379</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Giddaluru Sumaithri">2ea7fe83837c52107edd9ea6feaad379</sys_scope>
+        <sys_update_name>sys_ux_applicability_efa732c3837c52107edd9ea6feaad3bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 04:30:12</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>
